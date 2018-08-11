@@ -1,6 +1,6 @@
 # USB Tool
 
-A utility tool for writing and ISO to a USB.
+A utility tool for writing an ISO to a USB for MacOS.
 
 # Dependencies
 Requires pv for the progress bar (brew install pv). If you dont want to install pv, then just remove the pv command on line 20.
